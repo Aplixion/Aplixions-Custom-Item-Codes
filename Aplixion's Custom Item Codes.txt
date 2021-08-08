@@ -1,120 +1,123 @@
-Goon Air-Gun V.3	        -	SMG	-	Boss Immunity Bypass	-	bl3(AwAAAAAP84C8OqNBgfwJJtTJZDKZcrlcLpfL5XK5XDJ5TCaTyWSy4/nQaDQajUaj0Wg0JhMTSaVSqVQqlUqlUqlUKrU5yN0XQgAAAAAAAGYQAA==)
+NAME	                		-	TYPE	    	-	DESCRIPTION	                -	ITEM CODE
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Goon Air-Gun V.2	        -	SMG	-	Boss Immunity Bypass	-	BL3(AwAAAACFRoC8OqNBEfwJJtTJZDKZcrlcLpfL5XK5XDJ5TCaTyWSy4/nQaDQajUaj0Wg0JhMTSaVSqVQqlUqlUqlUKrXZxR1CAAAAAAAAZhAA)
+Goon Air-Gun V.3	            -	SMG	            -	Boss Immunity Bypass	    -	bl3(AwAAAAAP84C8OqNBgfwJJtTJZDKZcrlcLpfL5XK5XDJ5TCaTyWSy4/nQaDQajUaj0Wg0JhMTSaVSqVQqlUqlUqlUKrU5yN0XQgAAAAAAAGYQAA==)
 
-Jakobs Nukem Launcher	    -	Assault Rifle	-	Multi-Element Nuke	-	BL3(AwAAAABZuoA8pQvBEPxZDWAikUgkEolEIpFIJBKJRCKRAAKBQCAQCLQlEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEIvI6StgdQgAAAAAAADIGAA==)
+Goon Air-Gun V.2	            -	SMG	            -	Boss Immunity Bypass	    -	BL3(AwAAAACFRoC8OqNBEfwJJtTJZDKZcrlcLpfL5XK5XDJ5TCaTyWSy4/nQaDQajUaj0Wg0JhMTSaVSqVQqlUqlUqlUKrXZxR1CAAAAAAAAZhAA)
 
-Girth Blaster	            -	Pistol	-	Nerf Dart gun	-	BL3(AwAAAAAnYIC8LerCEHQjuEluuVwulwIBbbFAIGyajUaj2Ww2nFKp5PF4PB5PpdPpdDodj6dAlDssAAA=)
+Jakobs Nukem Launcher	        -	Assault Rifle	-	Multi-Element Nuke	        -	BL3(AwAAAABZuoA8pQvBEPxZDWAikUgkEolEIpFIJBKJRCKRAAKBQCAQCLQlEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEIvI6StgdQgAAAAAAADIGAA==)
 
-Heartbreaker	            -	Pistol	-	Heart Fireworks	-	BL3(AwAAAACYGYC8oztBE3wbDYcD8jg2m7emszkLBAKBQCBAIBAIBAKBQBsMBoOBRaPhcDgcDoeEMs5T2B1CAAAAAAAAMwYA)
+Girth Blaster	                -	Pistol	        -	Nerf Dart gun	            -	BL3(AwAAAAAnYIC8LerCEHQjuEluuVwulwIBbbFAIGyajUaj2Ww2nFKp5PF4PB5PpdPpdDodj6dAlDssAAA=)
 
-Slide Grenade	            -	Grenade	-	Increased Slide Speed	-	BL3(AwAAAADtjoA8aZBAEmRxOBwOh8PhcDgcDofD4XA4HA6Hw+FwOCKRSCQSiUQikUgkEonEXDLWEAIAAAAAAJQBAQ==)
+Heartbreaker	                -	Pistol	        -	Heart Fireworks	            -	BL3(AwAAAACYGYC8oztBE3wbDYcD8jg2m7emszkLBAKBQCBAIBAIBAKBQBsMBoOBRaPhcDgcDoeEMs5T2B1CAAAAAAAAMwYA)
 
-Echo Log "Sucker"	        -	Misc.	-	Playable Echo Log	-	BL3(AwAAAADcB4C8GRDoFwQAAAA=)
+Slide Grenade	                -	Grenade	        -	Increased Slide Speed	    -	BL3(AwAAAADtjoA8aZBAEmRxOBwOh8PhcDgcDofD4XA4HA6Hw+FwOCKRSCQSiUQikUgkEonEXDLWEAIAAAAAAJQBAQ==)
 
-Echo Log "Krieg"	        -	Misc.	-	Playable Echo Log	-	BL3(AwAAAAAe2oC8GdjqFwQAAAA=)
+Echo Log "Sucker"	            -	Misc.	        -	Playable Echo Log	        -	BL3(AwAAAADcB4C8GRDoFwQAAAA=)
 
-Pendant of Terramorphous 	-	Relic	-	825% Move Speed	-	BL3(AwAAAABZBYC8FVhAEvxZ7OIqKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysBAAA=)
+Echo Log "Krieg"	            -	Misc.	        -	Playable Echo Log	        -	BL3(AwAAAAAe2oC8GdjqFwQAAAA=)
 
-Vault Card Keys	          -	Misc.	-	Gives 3	-	bl3(BA4P4zU6d+XLdyYuJq5Aw1CvpZn07RA=)
+Pendant of Terramorphous     	-	Relic	        -	825% Move Speed	            -	BL3(AwAAAABZBYC8FVhAEvxZ7OIqKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysBAAA=)
 
-Diamond Key	              -	Misc.	-	Gives 1	-	bl3(BA4P4zWEYrycBYchGr5D9AInJI0QVBIk9JdEvQ==)
+Vault Card Keys	                -	Misc.	        -	Gives 3	                    -	bl3(BA4P4zU6d+XLdyYuJq5Aw1CvpZn07RA=)
 
-Atlas Torrent	            -	Pistol	-	Non-DLC Locked	-	bl3(BAAAAADhZ4A+VjyBEOQojgckIhE0ShhOiuWqOhzVarXqar1gMVdS7toAAAAAAA==)
+Diamond Key	                    -	Misc.	        -	Gives 1	                    -	bl3(BA4P4zWEYrycBYchGr5D9AInJI0QVBIk9JdEvQ==)
 
-Atom Balm	                -	Launcher	-	Saurian Launcher as an artifact	-	bl3(AwAAAACF3IC8FahQgiRSBvve4g4AAA==)
+Atlas Torrent	                -	Pistol	        -	Non-DLC Locked	            -	bl3(BAAAAADhZ4A+VjyBEOQojgckIhE0ShhOiuWqOhzVarXqar1gMVdS7toAAAAAAA==)
 
-Outrunner Artifact	      -	Relic	-	Car as an artifact	-	bl3(AwAAAABMk4C8FVhC8h/6WBriDgAA)
+Atom Balm	                    -	Launcher	    -	Launcher as an artifact	    -	bl3(AwAAAACF3IC8FahQgiRSBvve4g4AAA==)
 
-Eridian Money	            -	Misc.	-	Gives billions of dollars	-	BL3(AwAAAABtqoC8FXhY8kdSxCBDGxD6tOIOAAA=)
+Outrunner Artifact	            -	Relic	        -	Car as an artifact	        -	bl3(AwAAAABMk4C8FVhC8h/6WBriDgAA)
 
-Gauged Res	              -	Pistol	-	Friendly Fire / Revive	-	BL3(AwAAAABIi4A8TTiBEvwbNEmSJEmSJEmSJEmSJEmSJEkWQRAEQRAEQRAEQRAEQRAEQRAEQZi2bdu2bdu2U4w7hAAAAAAAAGVAAA==)
+Eridian Money	                -	Misc.	        -	Gives billions of dollars	-	BL3(AwAAAABtqoC8FXhY8kdSxCBDGxD6tOIOAAA=)
 
-Goon Air-Gun V.1	        -	SMG	-	Boss Immunity Bypass	-	BL3(AwAAAADG7IA89qBBEfwbEMjj8Xg8YrFYLKZUKpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCptNptttVqtVqsVEAg0xR1CAAAAAAAAAAAA)
+Gauged Res	                    -	Pistol	        -	Friendly Fire / Revive	    -	BL3(AwAAAABIi4A8TTiBEvwbNEmSJEmSJEmSJEmSJEmSJEkWQRAEQRAEQRAEQRAEQRAEQRAEQZi2bdu2bdu2U4w7hAAAAAAAAGVAAA==)
 
-Eridian Meat Stick	      -	Misc.	-	?	-	BL3(AwAAAAAEN4C8UHgnGPz//////////3T3ddaGEAAAAAAAAAAA)
+Goon Air-Gun V.1	            -	SMG	            -	Boss Immunity Bypass	    -	BL3(AwAAAADG7IA89qBBEfwbEMjj8Xg8YrFYLKZUKpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCptNptttVqtVqsVEAg0xR1CAAAAAAAAAAAA)
 
-Saurian Fabricator	      -	Fabricator	-	"Drop-able" Fabricator / 3 modes	-	BL3(AwAAAACZQYC8UKgQGPz//////////3TX9nWGEAAAAAAAAAAA)
+Eridian Meat Stick	            -	Misc.	        -	?	                        -	BL3(AwAAAAAEN4C8UHgnGPz//////////3T3ddaGEAAAAAAAAAAA)
 
-"Boomer" Fabricator	      -	Assault Rifle	-	Cryo /Shock	-	BL3(AwAAAADjh4A8r0uBEPwdy2AwGAwGg8FgMBgMBoPBYBAnmJhKFw6Hw+FwOBwOh8PhcDgcDofD4XA4HA6Hw+FwOJyViwfLxR1CAAAAAAAAAAAA)
+Saurian Fabricator	            -	Fabricator	    -	"Drop-able" Fabricator      -	BL3(AwAAAACZQYC8UKgQGPz//////////3TX9nWGEAAAAAAAAAAA)
 
-Cake Grenade	            -	Grenade	-	Lingering Ghast Call	-	BL3(AwAAAAC9I4C8H5BAE/wJNC4wThbl5DY3Nxv7tKAONzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nwn//jwzOSUiGD7krgsAAA==)
+"Boomer" Fabricator	            -	Assault Rifle	-	Cryo /Shock	                -	BL3(AwAAAADjh4A8r0uBEPwdy2AwGAwGg8FgMBgMBoPBYBAnmJhKFw6Hw+FwOBwOh8PhcDgcDofD4XA4HA6Hw+FwOJyViwfLxR1CAAAAAAAAAAAA)
 
-Maliwan Tank 	            -	Misc.	-	"Drop-able" Tank	-	BL3(AwAAAAAyMIA85RMCE/wfDxkkIplOlblvuSYQCASLxWKxWCwWC+JkYrVarR6Px+PxXLwZlUqlUqlUKpVKpVKpVCqVSqUxz13YE0IAAAAAAAAyIAA=)
+Cake Grenade	                -	Grenade	        -	Lingering Ghast Call	    -	BL3(AwAAAAC9I4C8H5BAE/wJNC4wThbl5DY3Nxv7tKAONzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nwn//jwzOSUiGD7krgsAAA==)
 
-"Bite Size" Jakobs AR	    -	Pistol	-	"Bite Size" Jakobs AR	-	BL3(AwAAAAA3ooA8DwwBE/wfDxkkIplOlblvuSYQCASLxWKxWCwWC+JkYrVarR6Px+PxXLwZlUqlUqlUKpVKpVKpVCqVSqUxz13YE0IAAAAAAAAyIAA=)
+Maliwan Tank 	                -	Misc.	        -	"Drop-able" Tank	        -	BL3(AwAAAAAyMIA85RMCE/wfDxkkIplOlblvuSYQCASLxWKxWCwWC+JkYrVarR6Px+PxXLwZlUqlUqlUKpVKpVKpVCqVSqUxz13YE0IAAAAAAAAyIAA=)
 
-"Bite Size" Fabricator	  -	Pistol	-	"Bite Size" Fabricator	-	BL3(AwAAAAC0gYA85UsBE/wfDxkkIplOlblvuSYQCASLxWKxWCwWC+JkYrVarR6Px+PxXLwZlUqlUqlUKpVKpVKpVCqVSqUxz13YE0IAAAAAAAAyIAA=)
+"Bite Size" Jakobs AR	        -	Pistol	        -	"Bite Size" Jakobs AR	    -	BL3(AwAAAAA3ooA8DwwBE/wfDxkkIplOlblvuSYQCASLxWKxWCwWC+JkYrVarR6Px+PxXLwZlUqlUqlUKpVKpVKpVCqVSqUxz13YE0IAAAAAAAAyIAA=)
 
-"Bite Size" Saurian Launcher	-	Pistol	-	"Bite Size" Saurian Launcher	-	BL3(AwAAAACnSIA85asQE/wfDxkkIplOlblvuSYQCASLxWKxWCwWC+JkYrVarR6Px+PxXLwZlUqlUqlUKpVKpVKpVCqVSqUxz13YE0IAAAAAAAAyIAA=)
+"Bite Size" Fabricator	        -	Pistol	        -	"Bite Size" Fabricator	    -	BL3(AwAAAAC0gYA85UsBE/wfDxkkIplOlblvuSYQCASLxWKxWCwWC+JkYrVarR6Px+PxXLwZlUqlUqlUKpVKpVKpVCqVSqUxz13YE0IAAAAAAAAyIAA=)
 
-Service Bot EMS	              -	Pistol	-	Mode 2 Heals Enemies	-	BL3(AwAAAADV4oA8URhAE/ytVpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCqVSqVS0V3TkBJCAAAAAAAAAAAA)
+"Bite Size" Saurian Launcher	-	Pistol	        -	Saurian Launcher	        -	BL3(AwAAAACnSIA85asQE/wfDxkkIplOlblvuSYQCASLxWKxWCwWC+JkYrVarR6Px+PxXLwZlUqlUqlUKpVKpVKpVCqVSqUxz13YE0IAAAAAAAAyIAA=)
 
-Blade Gun 	                  -	Pistol	-	Guardian TD Boss Weapon	-	BL3(AwAAAACJeoA8UXBpE/ytVpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCqVSqVS0V3TkBJCAAAAAAAAAAAA)
+Service Bot EMS	                -	Pistol	        -	Mode 2 Heals Enemies	    -	BL3(AwAAAADV4oA8URhAE/ytVpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCqVSqVS0V3TkBJCAAAAAAAAAAAA)
 
-Fireball Gun	                -	Pistol	-	Flamethrower	-	BL3(AwAAAACRIoA8UehgE/ytVpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCqVSqVS0V3TkBJCAAAAAAAAAAAA)
+Blade Gun 	                    -	Pistol	        -	Guardian TD Boss Weapon	    -	BL3(AwAAAACJeoA8UXBpE/ytVpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCqVSqVS0V3TkBJCAAAAAAAAAAAA)
 
-Snowball Gun	                -	Pistol	-	Snowthrower	-	BL3(AwAAAAAZ7IA8UfhgE/ytVpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCqVSqVS0V3TkBJCAAAAAAAAAAAA)
+Fireball Gun	                -	Pistol	        -	Flamethrower	            -	BL3(AwAAAACRIoA8UehgE/ytVpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCqVSqVS0V3TkBJCAAAAAAAAAAAA)
 
-"Crit"	                      -	SMG	-	Balanced	-	BL3(AwAAAACsBoC8OtNBEfwJyUHH86GNRqPRaDQajUaj0Wg0GtFoNBqNRqPRaDQajYbBYDAYDAaDwVgsFoslEolEOBpN4lAgyt0XQgAAAAAAADMGAA==)
+Snowball Gun	                -	Pistol	        -	Snowthrower	                -	BL3(AwAAAAAZ7IA8UfhgE/ytVpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCqVSqVSqVQqlUqlUqlUKpVKpVKpVCqVSqVS0V3TkBJCAAAAAAAAAAAA)
 
-Plasma Coil	                  -	SMG	-	Non-DLC Locked	-	BL3(AwAAAAB9joA8bNBBEfwJp+5oNBqNRqPRaDQajUaj0Wg0Go1Go9FoNBqNRqORx+PxeDweTyaTyWQymUwmk8lkMt8IJ9Hw1t1X2wwBAAA=)
+"Crit"	                        -	SMG	            -	Balanced	                -	BL3(AwAAAACsBoC8OtNBEfwJyUHH86GNRqPRaDQajUaj0Wg0GtFoNBqNRqPRaDQajYbBYDAYDAaDwVgsFoslEolEOBpN4lAgyt0XQgAAAAAAADMGAA==)
 
-Boom Sickle	                  -	Assault Rifle	-	Fidget Spinner	-	bl3(A0we6mvs/iea1TS8r65CNiZC4ucBH1TneyYGI72qffGuNsLKJjqCjJM3x/Fu2BxPe7edhW4tjXxsL01Ms1hw8JLlcBmd6E1JpIRn8a2myYKd9A==)
+Plasma Coil	                    -	SMG	            -	Non-DLC Locked	            -	BL3(AwAAAAB9joA8bNBBEfwJp+5oNBqNRqPRaDQajUaj0Wg0Go1Go9FoNBqNRqORx+PxeDweTyaTyWQymUwmk8lkMt8IJ9Hw1t1X2wwBAAA=)
 
-Ghast Call	                  -	Grenade	-	Large Radius	-	bl3(BOVT+BuOTkTSkjAVC2nUfXQAAuEynvMslelIFE3u2M3gZMUEcHJ0JDDuLewdxg+m)
+Boom Sickle	                    -	Assault Rifle	-	Fidget Spinner	            -	bl3(A0we6mvs/iea1TS8r65CNiZC4ucBH1TneyYGI72qffGuNsLKJjqCjJM3x/Fu2BxPe7edhW4tjXxsL01Ms1hw8JLlcBmd6E1JpIRn8a2myYKd9A==)
 
-Whispering Ice	              -	Grenade	-	Mushroom Grenade	-	bl3(BBdgASN6djncr5t0sST0MQ8J2m3yc0w4LwEo0uE=)
+Ghast Call	                    -	Grenade	        -	Large Radius	            -	bl3(BOVT+BuOTkTSkjAVC2nUfXQAAuEynvMslelIFE3u2M3gZMUEcHJ0JDDuLewdxg+m)
 
-9-Volt	                      -	SMG	-	Sword Gun	-	bl3(BBREnWXvCBTQYoj8jSwG5Wmty6UezGiYLKn7azmyB62eycHuvbXojgiSNhyLX4S0GDPZu5S3jXTTGpuUFwoExdIcJUGo8QDzxeIxCim9njwyeYcwLw==)
+Whispering Ice	                -	Grenade	        -	Mushroom Grenade	        -	bl3(BBdgASN6djncr5t0sST0MQ8J2m3yc0w4LwEo0uE=)
 
-Webslinger	                  -	Assault Rifle	-	Increased Jump Height	-	bl3(BFEJuAKUhsfw4hjYH2bR5pCCX6z2gQXKQc/G5ydxg2jdMlAsaNN6OX8cdvM=)
+9-Volt	                        -	SMG	            -	Sword Gun	                -	bl3(BBREnWXvCBTQYoj8jSwG5Wmty6UezGiYLKn7azmyB62eycHuvbXojgiSNhyLX4S0GDPZu5S3jXTTGpuUFwoExdIcJUGo8QDzxeIxCim9njwyeYcwLw==)
 
-One Pump Chump	              -	Shotgun	-	Crashes The Host's Game	-	bl3(BNFSB3g1fqkXOI3ptYF4/MPdtQO8fQx916sPHJC2mDEFldksemsfENnLDyXdiT/b4S4VSpoJ4i4hpZ8NJw9tJ/r/yRsc3LPxbSkoCcnkBga3)
+Webslinger	                    -	Assault Rifle	-	Increased Jump Height	    -	bl3(BFEJuAKUhsfw4hjYH2bR5pCCX6z2gQXKQc/G5ydxg2jdMlAsaNN6OX8cdvM=)
 
-Bubble Blaster	              -	Pistol	-	Bubble Nukes	-	bl3(BJMoVFSZd82x9ty4sKWjykG4ed9ZxkcYqtCU2p6IhulTeoDDvYXd3Uwv55YVHg52MBFkL2bultH4SK+tVwDAVl/kXWXH9S+wdRR7uuoaqA+CeQ==)
+One Pump Chump	                -	Shotgun	        -	Crashes The Host's Game	    -	bl3(BNFSB3g1fqkXOI3ptYF4/MPdtQO8fQx916sPHJC2mDEFldksemsfENnLDyXdiT/b4S4VSpoJ4i4hpZ8NJw9tJ/r/yRsc3LPxbSkoCcnkBga3)
 
-Ward	                        -	Shield	-	Invulnerability	-	bl3(BBV/NAKu6omMenpEF51WqdAB0Hatc6hRdrilvCYD8D57u79jCDfATqi1megevNdtZYnvhBdFpaM9uGBLiEZunZkwrPNxHxZ9mjEzg6DSC+6WutOF3uwkD0hSiiSRM4Fo)
+Bubble Blaster	                -	Pistol	        -	Bubble Nukes	            -	bl3(BJMoVFSZd82x9ty4sKWjykG4ed9ZxkcYqtCU2p6IhulTeoDDvYXd3Uwv55YVHg52MBFkL2bultH4SK+tVwDAVl/kXWXH9S+wdRR7uuoaqA+CeQ==)
 
-Fishslap	                    -	Grenade	-	Homing	-	bl3(BKYRADbE/vUAH7doFD6JqO9ppVUR1AeG9neV1+qwlZBxfJAp5gROlboUAVfGuI8JslC+aPLQ0HlTAB2J+8xkWMLBDOm//mq2GnCeAoa5ieqP5nM=)
+Ward	                        -	Shield	        -	Invulnerability	            -	bl3(BBV/NAKu6omMenpEF51WqdAB0Hatc6hRdrilvCYD8D57u79jCDfATqi1megevNdtZYnvhBdFpaM9uGBLiEZunZkwrPNxHxZ9mjEzg6DSC+6WutOF3uwkD0hSiiSRM4Fo)
 
-"Dragon" Siren Class Mod	    -	Class Mod	-	High Skill Cooldown Reduction	-	bl3(BAVnrXgspvNNZk46/xG6wnbo3Vl+qNuafBEd9p1zopxOTtcwLLhEWzT7+55xd6N9dS85NP2mPdYjrv4SVdISr5WUVhzgzoeTCWXkZR2gwm3h8y3Hc04zc8h6jZUxp7yK)
+Fishslap	                    -	Grenade	        -	Homing	                    -	bl3(BKYRADbE/vUAH7doFD6JqO9ppVUR1AeG9neV1+qwlZBxfJAp5gROlboUAVfGuI8JslC+aPLQ0HlTAB2J+8xkWMLBDOm//mq2GnCeAoa5ieqP5nM=)
 
-Little Yeeti	                -	Pistol	-	"Bite Size" Launcher	-	bl3(BElIXTgaylhkodoYtg6/xWCFa0QDo63TItlLqZVLzVPv2DgWciMiqmRcRHdjQhMk3biMjRiw0FQ7not9qzoQ+pAiuwNVbox2rjf10ijlXRfy+d4A)
+"Dragon" Siren Class Mod	    -	Class Mod	    -	Skill Cooldown Reduction	-	bl3(BAVnrXgspvNNZk46/xG6wnbo3Vl+qNuafBEd9p1zopxOTtcwLLhEWzT7+55xd6N9dS85NP2mPdYjrv4SVdISr5WUVhzgzoeTCWXkZR2gwm3h8y3Hc04zc8h6jZUxp7yK)
 
-Giant Ghast Call	            -	Grenade	-	Huge Radius	-	bl3(BDRiozbkgnoQC/V5qXbMt0kY0TpQppWyNDvpgf91xhhmTN0UBcFjubAGMEs+65m0oLFA0CEL/cPKN3stkFzpbNHGBZ5y1iDSs/DakX/Y65IA)
+Little Yeeti	                -	Pistol	        -	"Bite Size" Launcher	    -	bl3(BElIXTgaylhkodoYtg6/xWCFa0QDo63TItlLqZVLzVPv2DgWciMiqmRcRHdjQhMk3biMjRiw0FQ7not9qzoQ+pAiuwNVbox2rjf10ijlXRfy+d4A)
 
-Light Show Launcher	          -	Pistol	-	Light Show With Launcher Body	-	bl3(BPA+/i8o0M9G+OVC4JDvPd7Q9lXWi1P+T2JaZ0qsq9o4JHCWuGCYsnjWEgOxVBjNekvZEvpxArprvlO4oASrrR4=)
+Giant Ghast Call	            -	Grenade	        -	Huge Radius	                -	bl3(BDRiozbkgnoQC/V5qXbMt0kY0TpQppWyNDvpgf91xhhmTN0UBcFjubAGMEs+65m0oLFA0CEL/cPKN3stkFzpbNHGBZ5y1iDSs/DakX/Y65IA)
 
-Light Show	                  -	Pistol	-	Higher Damage Light Show	-	bl3(BE1EaQxBg5mWCE1TvZu8nVgh2qvVKWyFPr0xrRnD9lKZCgTdgAesxqegBg==)
+Light Show Launcher	            -	Pistol	        -	Light Show w/Launcher Body	-	bl3(BPA+/i8o0M9G+OVC4JDvPd7Q9lXWi1P+T2JaZ0qsq9o4JHCWuGCYsnjWEgOxVBjNekvZEvpxArprvlO4oASrrR4=)
 
-Old God	                      -	Shield	-	800,000+ Capacity	-	bl3(BK0yB1uLPNb1eJYHzdoMPZUhG8hVbdPeDOK70wH+dHl+OA1CLdlS28eJ3VxbwPgAHT8NHdiibFgIwFDuG69JcmLCfBznNkwtzc/lKh4vriZKxAE=)
+Light Show	                    -	Pistol	        -	Higher Damage Light Show	-	bl3(BE1EaQxBg5mWCE1TvZu8nVgh2qvVKWyFPr0xrRnD9lKZCgTdgAesxqegBg==)
 
-Money Grenade	                -	Grenade	-	Mirv / Tons of Currency	-	bl3(BPYogg0XCyBfdreuqkJJ/L5BvOiey3AQTP3sfsCqSgOd8gFVOT8D1i+XDbqLif/cWdsrWGaC8NkeQf71BHjU+Q==)
+Old God	                        -	Shield	        -	800,000+ Capacity	        -	bl3(BK0yB1uLPNb1eJYHzdoMPZUhG8hVbdPeDOK70wH+dHl+OA1CLdlS28eJ3VxbwPgAHT8NHdiibFgIwFDuG69JcmLCfBznNkwtzc/lKh4vriZKxAE=)
 
-Vampiric	                    -	Grenade	-	Boss Immunity Bypass	-	bl3(BFRE8jKAw3DKtptxTIlki2aSWEyxQkO2ckEn6zF5n9gomstgJ26mC9KwWmbqtWOx6RHStcBw6Lj39MpQUdSC4kDDjbxxbl+NU+a8HxsVgEDFhQeNdGE=)
+Money Grenade	                -	Grenade	        -	Mirv / Tons of Currency	    -	bl3(BPYogg0XCyBfdreuqkJJ/L5BvOiey3AQTP3sfsCqSgOd8gFVOT8D1i+XDbqLif/cWdsrWGaC8NkeQf71BHjU+Q==)
 
-Mancubus	                    -	Pistol	-	Skull Gun	-	bl3(BKsr9UjgF+4raO8BeFP4L3Z4DAgFJX0XWjl8br+kyuDzv0klQSZfzNXLlrehWPkXRqEMKDKoWlH1p1/qhstR02apTwAVPwdbu1TgAth9PkX/KiYf)
+Vampiric	                    -	Grenade	        -	Boss Immunity Bypass	    -	bl3(BFRE8jKAw3DKtptxTIlki2aSWEyxQkO2ckEn6zF5n9gomstgJ26mC9KwWmbqtWOx6RHStcBw6Lj39MpQUdSC4kDDjbxxbl+NU+a8HxsVgEDFhQeNdGE=)
 
-Dauntless Boomer	            -	Assault Rifle	-	Large Spread	-	bl3(BMsfZRVMHj+XRTs+0RDSmYfAJH8FZnqGEBV7951YiYJlPZpIxZe6Loz/6y0VgH//TOQnY2s4fE+goQ7UEmkeIEvjTpPKJV9rJtbWhhZZL1gJLg==)
+Mancubus	                    -	Pistol	        -	Skull Gun	                -	bl3(BKsr9UjgF+4raO8BeFP4L3Z4DAgFJX0XWjl8br+kyuDzv0klQSZfzNXLlrehWPkXRqEMKDKoWlH1p1/qhstR02apTwAVPwdbu1TgAth9PkX/KiYf)
 
-"Breaker" Siren Class Mod	    -	Class Mod	-	Insane Fire Rate	-	bl3(AwAAAACrp4C52CNDhvzt2u6gGmusscYaa6yxxhprrLHGGmusscYaa6yxxhprrLHGGmusscYaa6yxxhprrLHGGmusscYaa6yxxhprrLHGGmusscYaa6yxxhprrLFGAAA=)
+Dauntless Boomer	            -	Assault Rifle	-	Large Spread	            -	bl3(BMsfZRVMHj+XRTs+0RDSmYfAJH8FZnqGEBV7951YiYJlPZpIxZe6Loz/6y0VgH//TOQnY2s4fE+goQ7UEmkeIEvjTpPKJV9rJtbWhhZZL1gJLg==)
 
-Webslinger 2.0	              -	Assault Rifle	-	Increased Jump Height	-	bl3(BFEJuAKUhtv04hi4H2bR5pAiC9v7gQUqvYWnQU4YHohxnkpl7X26l70MPuqZhWO0AHuiwI6p0IAWoGGF)
+"Breaker" Siren Class Mod	    -	Class Mod	    -	Insane Fire Rate	        -	bl3(AwAAAACrp4C52CNDhvzt2u6gGmusscYaa6yxxhprrLHGGmusscYaa6yxxhprrLHGGmusscYaa6yxxhprrLHGGmusscYaa6yxxhprrLHGGmusscYaa6yxxhprrLFGAAA=)
 
-One Punch Grenade	            -	Grenade	-	One Shot Melee	-	bl3(BDN5U37mNYqIfSGSrGkOJQX0a7ulE7rl+28+mRrwKIDprlHs3iFUVsFzyTdq+CrweMXDjk3DN2kyZk+JZLrlqYDP51WQB4t8XIn4HVwHzRgcJXn0)
+Webslinger 2.0	                -	Assault Rifle	-	Increased Jump Height	    -	bl3(BFEJuAKUhtv04hi4H2bR5pAiC9v7gQUqvYWnQU4YHohxnkpl7X26l70MPuqZhWO0AHuiwI6p0IAWoGGF)
 
-COV Smart Gun	                -	Launcher	-	High Fire Rate / Smart Bullets	-	bl3(AwAAAABjqYC6LCSBgvwb54Ecx3Ec53ke40AEQRAExEy9dV3XdV2f53me53me53me53me53me53me53meB5SvOwAAAAAAAAAA)
+One Punch Grenade	            -	Grenade	        -	One Shot Melee	            -	bl3(BDN5U37mNYqIfSGSrGkOJQX0a7ulE7rl+28+mRrwKIDprlHs3iFUVsFzyTdq+CrweMXDjk3DN2kyZk+JZLrlqYDP51WQB4t8XIn4HVwHzRgcJXn0)
 
-Shlooter	                    -	Relic	-		-	bl3(BMgOMkfxBekHykguUtlgfOarTm4=)
+COV Smart Gun	                -	Launcher	    -	+Fire Rate w/Smart Bullets	-	bl3(AwAAAABjqYC6LCSBgvwb54Ecx3Ec53ke40AEQRAExEy9dV3XdV2f53me53me53me53me53me53me53meB5SvOwAAAAAAAAAA)
 
-Pyroburst	                    -	Grenade	-		-	bl3(BFZROHXWWH4pwvmVhd+zjkeAWZTo14nq2XY=)
+Shlooter	                    -	Relic	        -		                        -	bl3(BMgOMkfxBekHykguUtlgfOarTm4=)
 
-Troubleshooter	              -	SMG	-		-	bl3(BIcsqiSbPpJSF9Xl4metyQ2UA8H+o+iroclwIzhYz6E+bQ==)
+Pyroburst	                    -	Grenade	        -		                        -	bl3(BFZROHXWWH4pwvmVhd+zjkeAWZTo14nq2XY=)
 
-Gold Rush	                    -	SMG	-		-	bl3(BD4N/B5ufDxfylX7QGm3u3aFyxMDjDqnufu+RHvYXFpm5BUVsA==)
+Troubleshooter	                -	SMG	            -		                        -	bl3(BIcsqiSbPpJSF9Xl4metyQ2UA8H+o+iroclwIzhYz6E+bQ==)
 
-Vault Card Keys 2	            -	Misc.	-		-	bl3(BGAEuHb24fd7K+54RMZ5XI4IF4kGxu1+fAQ46A==)
+Gold Rush	                    -	SMG	            -		                        -	bl3(BD4N/B5ufDxfylX7QGm3u3aFyxMDjDqnufu+RHvYXFpm5BUVsA==)
 
-Bubble Launcher	              -	Launcher	-		-	bl3(BNQueEffyy23Acv0YG53ecf94l72rXOa9ixnxT8/ilVBcgJNMOMH9UYIn26FQw/MI3qM1eRSJHMYvoP+fvzKB4OhBJjv9GQ29+CBW2kVrwLtqQ==)
+Vault Card Keys 2	            -	Misc.	        -		                        -	bl3(BGAEuHb24fd7K+54RMZ5XI4IF4kGxu1+fAQ46A==)
+
+Bubble Launcher	                -	Launcher	    -		                        -	bl3(BNQueEffyy23Acv0YG53ecf94l72rXOa9ixnxT8/ilVBcgJNMOMH9UYIn26FQw/MI3qM1eRSJHMYvoP+fvzKB4OhBJjv9GQ29+CBW2kVrwLtqQ==)
 
